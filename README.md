@@ -1,6 +1,6 @@
 # Employee Attendance Management System
 
-A simple MERN stack college/internship project for employee attendance, leave balance, and HR attendance viewing.
+A simple MERN stack project for employee attendance, leave balance, and HR attendance viewing.
 
 ## Tech Stack
 
